@@ -70,6 +70,7 @@ box-sizzing:border-box;
 display:grid;
 grid-template-columns:repeat(3,auto);
 position:relative;
+cursor:pointer;
 }
 .game-board::before{
 content:"";
